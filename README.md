@@ -10,4 +10,6 @@ I'm interested in reverse engineering, and server development. I'm writing to:
 ## 📫 How to contact:  
 - Telegram: [@TheBladewise](https://t.me/TheBladewise)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wisedevik&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wisedevik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
