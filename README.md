@@ -6,10 +6,11 @@ I'm interested in reverse engineering, and server development. I'm writing to:
 ## 📊 My statistics on GitHub:  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisedevik&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisedevik&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wisedevik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ## 📫 How to contact:  
 - Telegram: [@TheBladewise](https://t.me/TheBladewise)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wisedevik&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+
