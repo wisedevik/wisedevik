@@ -5,14 +5,15 @@ I'm interested in reverse engineering, and server development. I'm writing to:
 
 ## 📊 My GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wisedevik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wisedevik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisedevik&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisedevik&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wisedevik&theme=tokyonight&hide_border=true)
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wisedevik&layout=compact&theme=tokyonight)  
 
 ## 📫 How to contact:  
 - Telegram: [@TheBladewise](https://t.me/TheBladewise)
